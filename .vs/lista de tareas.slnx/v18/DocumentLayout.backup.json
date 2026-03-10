@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lista de tareas\\lista de tareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E2ACE-2838-D3AF-1592-31D3A219F7BB}|lista de tareas\\lista de tareas.csproj|e:\\lista de tareas\\lista de tareas\\lista de tareas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E2ACE-2838-D3AF-1592-31D3A219F7BB}|lista de tareas\\lista de tareas.csproj|solutionrelative:lista de tareas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E2ACE-2838-D3AF-1592-31D3A219F7BB}|lista de tareas\\lista de tareas.csproj|e:\\lista de tareas\\lista de tareas\\lista de tareas\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E2ACE-2838-D3AF-1592-31D3A219F7BB}|lista de tareas\\lista de tareas.csproj|solutionrelative:lista de tareas\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E2ACE-2838-D3AF-1592-31D3A219F7BB}|lista de tareas\\lista de tareas.csproj|e:\\lista de tareas\\lista de tareas\\lista de tareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E2ACE-2838-D3AF-1592-31D3A219F7BB}|lista de tareas\\lista de tareas.csproj|solutionrelative:lista de tareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E2ACE-2838-D3AF-1592-31D3A219F7BB}|lista de tareas\\lista de tareas.csproj|e:\\lista de tareas\\lista de tareas\\lista de tareas\\views\\tareas\\modificar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C78E2ACE-2838-D3AF-1592-31D3A219F7BB}|lista de tareas\\lista de tareas.csproj|solutionrelative:lista de tareas\\views\\tareas\\modificar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E2ACE-2838-D3AF-1592-31D3A219F7BB}|lista de tareas\\lista de tareas.csproj|e:\\lista de tareas\\lista de tareas\\lista de tareas\\models\\tareaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E2ACE-2838-D3AF-1592-31D3A219F7BB}|lista de tareas\\lista de tareas.csproj|solutionrelative:lista de tareas\\models\\tareaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E2ACE-2838-D3AF-1592-31D3A219F7BB}|lista de tareas\\lista de tareas.csproj|e:\\lista de tareas\\lista de tareas\\lista de tareas\\views\\tareas\\nuevo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C78E2ACE-2838-D3AF-1592-31D3A219F7BB}|lista de tareas\\lista de tareas.csproj|solutionrelative:lista de tareas\\views\\tareas\\nuevo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E2ACE-2838-D3AF-1592-31D3A219F7BB}|lista de tareas\\lista de tareas.csproj|e:\\lista de tareas\\lista de tareas\\lista de tareas\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E2ACE-2838-D3AF-1592-31D3A219F7BB}|lista de tareas\\lista de tareas.csproj|solutionrelative:lista de tareas\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\lista de tareas\\lista de tareas\\lista de tareas\\Program.cs",
+              "RelativeDocumentMoniker": "lista de tareas\\Program.cs",
+              "ToolTip": "E:\\lista de tareas\\lista de tareas\\lista de tareas\\Program.cs",
+              "RelativeToolTip": "lista de tareas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:15:54.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Modificar.cshtml",
+              "DocumentMoniker": "E:\\lista de tareas\\lista de tareas\\lista de tareas\\Views\\Tareas\\Modificar.cshtml",
+              "RelativeDocumentMoniker": "lista de tareas\\Views\\Tareas\\Modificar.cshtml",
+              "ToolTip": "E:\\lista de tareas\\lista de tareas\\lista de tareas\\Views\\Tareas\\Modificar.cshtml",
+              "RelativeToolTip": "lista de tareas\\Views\\Tareas\\Modificar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T04:38:25.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\lista de tareas\\lista de tareas\\lista de tareas\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "lista de tareas\\Data\\DataContext.cs",
+              "ToolTip": "E:\\lista de tareas\\lista de tareas\\lista de tareas\\Data\\DataContext.cs",
+              "RelativeToolTip": "lista de tareas\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:15:50.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\lista de tareas\\lista de tareas\\lista de tareas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lista de tareas\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\lista de tareas\\lista de tareas\\lista de tareas\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "lista de tareas\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T02:10:41.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TareaEntity.cs",
+              "DocumentMoniker": "E:\\lista de tareas\\lista de tareas\\lista de tareas\\Models\\TareaEntity.cs",
+              "RelativeDocumentMoniker": "lista de tareas\\Models\\TareaEntity.cs",
+              "ToolTip": "E:\\lista de tareas\\lista de tareas\\lista de tareas\\Models\\TareaEntity.cs",
+              "RelativeToolTip": "lista de tareas\\Models\\TareaEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T01:33:41.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TareasController.cs",
+              "DocumentMoniker": "E:\\lista de tareas\\lista de tareas\\lista de tareas\\Controllers\\TareasController.cs",
+              "RelativeDocumentMoniker": "lista de tareas\\Controllers\\TareasController.cs",
+              "ToolTip": "E:\\lista de tareas\\lista de tareas\\lista de tareas\\Controllers\\TareasController.cs",
+              "RelativeToolTip": "lista de tareas\\Controllers\\TareasController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA4wDgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T01:37:46.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nuevo.cshtml",
+              "DocumentMoniker": "E:\\lista de tareas\\lista de tareas\\lista de tareas\\Views\\Tareas\\Nuevo.cshtml",
+              "RelativeDocumentMoniker": "lista de tareas\\Views\\Tareas\\Nuevo.cshtml",
+              "ToolTip": "E:\\lista de tareas\\lista de tareas\\lista de tareas\\Views\\Tareas\\Nuevo.cshtml*",
+              "RelativeToolTip": "lista de tareas\\Views\\Tareas\\Nuevo.cshtml*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T04:13:15.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

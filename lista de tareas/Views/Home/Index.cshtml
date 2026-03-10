@@ -1,0 +1,9 @@
+﻿@model List<lista_de_tareas.Models.TareaEntity>
+
+<h2>Lista de Tareas</h2>
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Tarea - @item.Descripcion (@(item.Estatus ? "Hecha" : "Pendiente"))</li>
+    }
+</ul>

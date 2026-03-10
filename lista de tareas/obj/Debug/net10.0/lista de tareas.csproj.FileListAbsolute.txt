@@ -1,0 +1,99 @@
+E:\lista de tareas\lista de tareas\lista de tareas\bin\Debug\net10.0\appsettings.Development.json
+E:\lista de tareas\lista de tareas\lista de tareas\bin\Debug\net10.0\appsettings.json
+E:\lista de tareas\lista de tareas\lista de tareas\bin\Debug\net10.0\lista de tareas.staticwebassets.runtime.json
+E:\lista de tareas\lista de tareas\lista de tareas\bin\Debug\net10.0\lista de tareas.staticwebassets.endpoints.json
+E:\lista de tareas\lista de tareas\lista de tareas\bin\Debug\net10.0\lista de tareas.exe
+E:\lista de tareas\lista de tareas\lista de tareas\bin\Debug\net10.0\lista de tareas.deps.json
+E:\lista de tareas\lista de tareas\lista de tareas\bin\Debug\net10.0\lista de tareas.runtimeconfig.json
+E:\lista de tareas\lista de tareas\lista de tareas\bin\Debug\net10.0\lista de tareas.dll
+E:\lista de tareas\lista de tareas\lista de tareas\bin\Debug\net10.0\lista de tareas.pdb
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\lista de tareas.GeneratedMSBuildEditorConfig.editorconfig
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\lista de tareas.AssemblyInfoInputs.cache
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\lista de tareas.AssemblyInfo.cs
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\lista de tareas.csproj.CoreCompileInputs.cache
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\lista de tareas.MvcApplicationPartsAssemblyInfo.cache
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\lista de tareas.RazorAssemblyInfo.cache
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\lista de tareas.RazorAssemblyInfo.cs
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\scopedcss\bundle\lista de tareas.styles.css
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\scopedcss\projectbundle\lista de tareas.bundle.scp.css
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\92q79fceyh-{0}-b9sayid5wm-b9sayid5wm.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\u6s4n4d43t-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\bw6iyf02jf-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\m9977ugp61-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\kd4alviznc-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\fed43ozskx-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\qqi3dzs1x9-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\92lfug92n8-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\rgbzxjwk43-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\113d9757sy-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\1xozmvq1d2-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\e4si2fsz9n-{0}-ub07r2b239-ub07r2b239.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\heq8meknk0-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\97o9mgnodf-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\bjnrv7zbk9-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\nt5bergk7m-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\wfusu68ov4-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\886tu4e3nx-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\mbv157zkbd-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\lbc6jg7v92-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\2zypjsv9s0-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\95w1ke6hsb-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\2cj4quqy3v-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\wlh8ehsfkt-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\sksa8dq85z-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\4v9vgt1agx-{0}-06098lyss8-06098lyss8.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\67pijjw4yo-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\ebf4osyy6x-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\u1ccgonlbz-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\h6fn5sz2lx-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\cp5umh6zat-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\ix6ypohu5w-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\u3vlpbkmvz-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\4cdms2ypw8-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\6kctbhpuko-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\o3ki5z14y3-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\raeqv58liw-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\hwsyie8sl5-{0}-493y06b0oq-493y06b0oq.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\5jc9eebl1z-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\sluanvml7c-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\xxvb90orqf-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\78uxde3s2n-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\fw3oe2mii8-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\0xv03os9br-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\ozsu3kjj4b-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\xsj4t84vz3-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\bwrv8oc4r7-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\tkqkrlx4rm-{0}-47otxtyo56-47otxtyo56.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\gvsg37qltq-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\0mjh3irc1w-{0}-356vix0kms-356vix0kms.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\hrbv0nm9o8-{0}-83jwlth58m-83jwlth58m.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\vfjrktalrv-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\0dik1pop3p-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\hylnu83f1k-{0}-ag7o75518u-ag7o75518u.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\wdoxlg9pbj-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\bvm0ukan0z-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\t4hbbucl84-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\sbk4e1f9fr-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\nh8fm0j68a-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\nmdrv6xr5u-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\gploo55fri-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\68emhoe83e-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\vtqv1rdd9r-{0}-tmlrv4vgo0-tmlrv4vgo0.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\compressed\z5i1tihhas-{0}-tmlrv4vgo0-tmlrv4vgo0.gz
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\staticwebassets.build.json
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\staticwebassets.development.json
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\swae.build.ex.cache
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\lista de tareas.dll
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\refint\lista de tareas.dll
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\lista de tareas.pdb
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\lista de tareas.genruntimeconfig.cache
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\ref\lista de tareas.dll
+E:\lista de tareas\lista de tareas\lista de tareas\obj\Debug\net10.0\lista de tareas.csproj.AssemblyReference.cache
